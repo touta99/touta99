@@ -1,4 +1,4 @@
-# 💻 touta99 (touta99)
+# 💻 touta99 
 
 🎓 Étudiant en informatique / science des données à l’UQAC  
 📍 Chicoutimi ,Québec, Canada  
@@ -8,8 +8,8 @@
 
 ## 📫 Contact
 🔗 Retrouvez-moi sur :
-- GitHub : https://github.com/touta99  
-- LinkedIn :https://www.linkedin.com/in/mohammed-touta-841ab4356/?originalSubdomain=ca
+- GitHub : [touta99](https://github.com/touta99)  
+- LinkedIn : [Mohammed Touta](https://www.linkedin.com/in/mohammed-touta-841ab4356/?originalSubdomain=ca)  
 - Email : mohammedtouta52@gmail.com
 
 ---
@@ -40,6 +40,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 
+
 ---
 
 ### 📊 Data & IA
@@ -55,31 +56,44 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity)
 ---
 
 ## 🚀 Projets Phares
-👉 Consultez mes dépôts pour :
-- Projets académiques en **science des données**
-- Applications orientées données (Flask, Android)
 
-
+- **Système de contrôle feu de circulation** – Microcontrôleur PIC 18F4680, conception et tests sur circuit réel.
+- **SQL – Gestion des aires de stationnement** – Procédures stockées, triggers, vues et événements MySQL.
+- **Application mobile météo** – Géolocalisation, notifications push, Android Studio, Java.
+- **Analyse du catalogue Netflix** – Analyse statistique, visualisation de données avec Python.
+- **Predict Breast Cancer** – Machine Learning pour prédire le risque de cancer du sein.
+- **Analyse & modélisation maladies cardiovasculaires** – Analyse statistique et modélisation prédictive en santé avec Python.
 ---
+## 📂 Autres projets
 
-## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ttouta99&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=touta99)
-
+- **Jeu Endless Runner (Unity)** – Génération aléatoire de niveaux, scoring.  
+- **Site Monopoly en ligne** – Gestion des utilisateurs et interaction temps réel entre joueurs  
+- **Application Web** – Développement et déploiement d'une application web complète  
+- **Autres projets académiques** 
 ---
 
 ## 📚 Formation & Certifications
-🎓 **BAC en Informatique – UQAC** *(en cours)*  
-📘 Elements of AI – Université d’Helsinki  
-📘 TensorFlow Developer Certificate  
-📘 CS50P – Harvard (edX)  
-📘 Pentesting – OpenClassrooms  
-📘 The Odin Project (Frontend)  
-📘 Réseaux – Huawei Academy
+🎓 **Baccalauréat en Informatique**  
+UQAC (Université du Québec à Chicoutimi)  
+📅 2023 – Présent  
+📊 Moyenne : **3,37 / 4,3**
+
+🎓 **Maîtrise en Codage et Cryptographie**  
+USTHB (Université des Sciences et de la Technologie Houari Boumédiène)  
+📅 2020 – 2023
+
+🎓 **Licence Mathématiques et Informatique**  
+USTHB  
+📅 2017 – 2020
+
+🎓 **Baccalauréat en Mathématiques**  
+Lycée Lotfi  
+📅 2016 – 2017
 
 ---
 

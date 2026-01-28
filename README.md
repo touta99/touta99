@@ -46,10 +46,10 @@
 ### 📊 Data & IA
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Scikit-learn
+- Scikit-learn,tensorflow, keras
 - Analyse exploratoire de données
 - Modèles de classification & régression
-
+- Machine learningn,Deep learning.
 ---
 
 ### 🛠 Outils
